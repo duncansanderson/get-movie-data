@@ -1,0 +1,23 @@
+{
+  "name": "get-movie-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duncansanderson/get-movie-data.git"
+  },
+  "author": "Duncan Sanderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duncansanderson/get-movie-data/issues"
+  },
+  "homepage": "https://github.com/duncansanderson/get-movie-data#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
